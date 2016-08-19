@@ -1,11 +1,15 @@
-iframe {
-	width: 800px; 
+.spotify {
+	width: 90%; 
 	height: 300px;
-    margin: 0 auto;
-    display:inline-block;
 }
 
-h3 {
-	color: blue;
+.don {
+	color: maroon;
+	font: Helvetica;
+	font-weight: bold;
 
+}
+
+div {
+	color: dark gray;
 }
