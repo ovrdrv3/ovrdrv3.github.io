@@ -41,12 +41,13 @@
 				);
 			});
 
-		// Scrolly links.
-			$('.scrolly').scrolly();
 
 		// Nav.
 			var $nav_a = $('#nav a');
 
+			/*
+			// Scrolly links.
+			$('.scrolly').scrolly();
 			// Scrolly-fy links.
 				$nav_a
 					.scrolly()
@@ -69,6 +70,7 @@
 							t.addClass('active');
 
 					});
+			*/
 
 			// Initialize scrollzer.
 				var ids = [];
