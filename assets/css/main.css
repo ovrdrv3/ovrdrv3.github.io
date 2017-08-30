@@ -1599,7 +1599,7 @@
 	}
 
 		h2.alt {
-			color: #888;
+			color: #800;
 		}
 
 			h2.alt strong {
@@ -1611,11 +1611,11 @@
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		header > p {
-			margin: 1em 0 0 0;
+			margin: 6em 0 0 0;
 		}
 
 	footer {
@@ -1709,7 +1709,7 @@
 		}
 
 		.image.avatar48 {
-			border-radius: 4px; 
+			border-radius: 4px;
 			width: 48px;
 			height: 48px;
 			background: #000000;
@@ -1903,10 +1903,11 @@
 		position: relative;
 		display: inline-block;
 		border-radius: 0.35em;
-		color: #fff !important;
+		color: black !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: antiquewhite;
+		/*opacity: 0.5;*/
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1924,7 +1925,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #bedcf2;
 		}
 
 		input[type="button"]:active,
@@ -2185,8 +2186,8 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				/*background-image: url("../../images/banner.jpg");*/
+				background-color: #FAEBD7;
+				background-image: url("../../images/camarillo_shot_min.jpg");
 			}
 
 			#main > section.two {
